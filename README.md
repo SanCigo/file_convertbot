@@ -8,4 +8,4 @@ Telegram Bot to convert files using [API2Convert](https://www.api2convert.com/) 
 
 [Link to the bot](https://t.me/file_convertbot)
 
-🗓 Personal project • 2021  
+🗓 2021 – 2023
